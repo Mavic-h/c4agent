@@ -8,7 +8,7 @@
 
 ## ⬇️ 下载
 
-[**下载最新版 (.dmg · Apple Silicon)**](https://github.com/Mavic-h/c4agent/releases/latest/download/C4Agent-1.2.0-arm64.dmg)
+[**下载最新版 (.dmg · Apple Silicon)**](https://github.com/Mavic-h/c4agent/releases/latest/download/C4Agent-arm64.dmg)
 
 > 适用于 Apple Silicon（M1/M2/M3…）的 Mac，约 99 MB，免费。
 
